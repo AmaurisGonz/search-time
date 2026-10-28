@@ -52,10 +52,10 @@ apiKey = 'YOUR_API_KEY_HERE'
 
 ## Running the Program
 
-From a terminal, run the script (replace `final.py` with your file name):
+From a terminal, run the script (replace `main.py` with your file name):
 
 ```bash
-python3 final.py
+python3 main.py
 ```
 
 You will see a welcome message and the task menu. Type a number from the menu and press **Enter**. Type `.` and press **Enter** to exit.
